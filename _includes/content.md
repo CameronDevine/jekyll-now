@@ -1,5 +1,5 @@
 ---
-Layout: Page
+layout: page
 ---
 
 This is my e-portfolio!
