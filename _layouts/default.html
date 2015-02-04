@@ -5,17 +5,17 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.descriptionl1 }} {{ stie.descriptionl2 }}</title>
 
     <meta name="author" content="{{ site.name }}" />
-    <meta name="description" content="{{ site.description }}">
+    <meta name="description" content="{{ site.descriptionl1 }} {{ site.descriptionl2 }}">
 
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.descriptionl1 }} {{ site.descriptionl2 }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
@@ -24,21 +24,17 @@
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <table>
-          <tr>
             <div class="site-info">
               <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-              <p class="site-description">{{ site.description }}</p>
+              <p class="site-description">{{ site.descriptionl1 }}
+              {{ site.descriptionl2 }}</p>
             </div>
-          </tr><tr>
           <nav>
             <a href="{{ site.baseurl }}/">Home</a>
             <a href="{{ site.baseurl }}/resume">Resume</a>
             <a href="{{ site.baseurl }}/projects">Projects</a>
             <a href="{{ site.baseurl }}/contact">Contact Me</a>
           </nav>
-          </tr>
-          </table>
         </header>
       </div>
     </div>
