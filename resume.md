@@ -40,10 +40,27 @@ Running Start
 + 9/2012-6/2013
 
 #### Home School
+
 + GPA: 3.7  
 + Graduated: 6/2013
 
-### Employment Experiance
+### Employment Experience
+
+1/2015-Present  
+Peer Tutor  
+Learning and Writing Center, St. Martin's University, Lacey, WA  
+Peer tutor for engineering classes.  
+
+7/2014-8/2014 and 12/2014-1/2015  
+Engineering Intern  
+SOAR Technologies, Redmond, WA  
+Engineering support for hydroturbine development and CNC Router setup.
+
+7/2012  
+Technique Tuesday, Portland, OR  
+Hand Collated index cards.  
+
+### Leadership Experience
 
 ### Honors
 
