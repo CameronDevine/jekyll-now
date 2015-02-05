@@ -28,9 +28,7 @@ Used computer aided design tools to model a FIRST Robotics competition robot.
 ### Eduction
 
 #### St. Martin's Uiniversity
-
-Mechanics Engineering 
-
+Mechanics Engineering  
 + GPA: 3.81
 + Expected Graduation Date: 5/2016
 
