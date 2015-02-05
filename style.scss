@@ -206,7 +206,7 @@ img {
   color: $white;
   font-size: 15px;
   letter-spacing: 2px;
-  padding-left: 15px;
+  padding-left: 20px;
   position: relative;
   top: -22px;
 
@@ -221,7 +221,7 @@ nav {
   font-family: $helveticaNeue;
   font-size: 15px;
   position: relative;
-  top: -15px;
+  top: -10px;
 
   @include mobile {
     float: none;
