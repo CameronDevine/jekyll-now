@@ -199,7 +199,6 @@ img {
   font-weight: 100;
   font-size: 40px;
   letter-spacing: 4px;
-  float: left;
 }
 
 .site-description {
@@ -207,6 +206,8 @@ img {
   color: $white;
   font-size: 15px;
   letter-spacing: 2px;
+  position: relative;
+  top: -40px;
 
   @include mobile {
     margin: 3px 0;
