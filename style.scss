@@ -73,6 +73,14 @@ h3 {
   padding-right: 1000px;
   color: #FFFFFF;
   background-color: #000000;
+  
+  a {
+  color: $white;
+  text-decoration: none;
+	cursor: pointer;
+  &:hover, &:active {
+    color: $blue;
+  }
 }
 
 h4 {
