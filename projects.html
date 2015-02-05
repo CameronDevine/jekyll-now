@@ -9,6 +9,8 @@ permalink: /projects/
     <article class="post">    
       
       <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+      
+      <img src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}">
 
       <div class="entry">
         {{ post.content | truncatewords:40}}
