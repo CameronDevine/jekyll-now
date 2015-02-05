@@ -4,12 +4,23 @@ title: Resume
 permalink: /resume/
 ---
 
-My resume
+Resume
 
-### More Information
+### Contact Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+Cameron.Devine@stmartin.edu
 
-### Contact me
+425-449-6127
+
+17165 NE 5th St.
+Bellevue, WA 98008
+
+### Skills and Abilities
+
+### Eduction
+
+### Employment Experiance
+
+### Honors
 
 [email@domain.com](mailto:email@domain.com)
