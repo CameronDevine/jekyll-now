@@ -17,13 +17,12 @@ Bellevue, WA 98008
 
 #### Administration
 
-In charge of registration and check in for a week long service project on Mt. Rainier.
-
-Ran check in and scoring for a Boy Scout camping competition.
++ In charge of registration and check in for a week long service project on Mt. Rainier.
++ Ran check in and scoring for a Boy Scout camping competition.
 
 #### Engingeering
 
-Used computer aided design tools to model a FIRST Robotics competition robot.
++ Used computer aided design tools to model a FIRST Robotics competition robot.
 
 ### Eduction
 
