@@ -15,13 +15,13 @@ Bellevue, WA 98008
 
 ### Skills and Abilities
 
-## Administration
+#### Administration
 
 In charge of registration and check in for a week long service project on Mt. Rainier.
 
 Ran check in and scoring for a Boy Scout camping competition.
 
-## Engingeering
+#### Engingeering
 
 Used computer aided design tools to model a FIRST Robotics competition robot.
 
