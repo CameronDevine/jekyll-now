@@ -151,7 +151,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 20px;
+  margin-bottom: 50px;
   background: #000000;
   color: #FFFFFF;
 }
@@ -281,14 +281,12 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: #FFFFFF;
 }
 
 footer {
   padding: 20px 0;
-  text-align: center;
+  text-align: right;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
