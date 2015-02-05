@@ -29,17 +29,17 @@ Used computer aided design tools to model a FIRST Robotics competition robot.
 
 #### St. Martin's Uiniversity
 Mechanics Engineering
-* GPA: 3.81
-* Expected Graduation Date: 5/2016
++ GPA: 3.81
++ Expected Graduation Date: 5/2016
 
 #### Bellevue College
 Running Start
-* GPA: 3.03
-* 9/2012-6/2013
++ GPA: 3.03
++ 9/2012-6/2013
 
 #### Home School
-* GPA: 3.7
-* Graduated: 6/2013
++ GPA: 3.7
++ Graduated: 6/2013
 
 ### Employment Experiance
 
