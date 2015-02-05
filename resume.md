@@ -6,7 +6,7 @@ permalink: /resume/
 
 ### Contact Information
 
-Cameron.Devine@stmartin.edu
+[Cameron.Devine@stmartin.edu](Cameron.Devine@stmartin.edu)
 
 425-449-6127
 
@@ -31,4 +31,3 @@ Used computer aided design tools to model a FIRST Robotics competition robot.
 
 ### Honors
 
-[email@domain.com](mailto:email@domain.com)
