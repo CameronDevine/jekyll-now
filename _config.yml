@@ -9,6 +9,9 @@ name: CAMERON  DEVINE
 descriptionl1: ENGINEERING
 descriptionl2: STUDENT
 
+# Footer text
+footer: Created 2/2015 by Cameron Devine
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
