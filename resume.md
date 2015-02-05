@@ -10,7 +10,7 @@ permalink: /resume/
 
 425-449-6127
 
-17165 NE 5th St.
+17165 NE 5th St.  
 Bellevue, WA 98008
 
 ### Skills and Abilities
@@ -35,14 +35,11 @@ Mechanics Engineering
 + Expected Graduation Date: 5/2016
 
 #### Bellevue College
-
-Running Start 
-
+Running Start  
 + GPA: 3.03
 + 9/2012-6/2013
 
-#### Home School 
-
+#### Home School  
 + GPA: 3.7
 + Graduated: 6/2013
 
