@@ -18,9 +18,10 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: #000000;
+  overflow-x: hidden;
 }
 
 .container {
@@ -66,9 +67,7 @@ h2 {
 
 h3 {
   font-size: 20px;
-  margin-left: -1000px;
-  margin-right: -1000px;
-  padding-left: 1000px;
+  width: initial;
   color: #FFFFFF;
   background-color: #000000;
 }
