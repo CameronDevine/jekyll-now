@@ -282,6 +282,10 @@ nav {
     font-weight: 300;
     letter-spacing: 1px;
     margin-right: 22px;
+    &:hover, &:active {
+    color: $blue;
+    text-decoration: none;
+  }
 
     @include mobile {
       margin: 0 10px;
