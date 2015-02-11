@@ -24,11 +24,17 @@ Bellevue, WA 98008
 
 + Used computer aided design tools to model a FIRST Robotics competition robot.
 
-#### Classes
+### Eduction
 
-Completed classes in:
+#### St. Martin's Uiniversity
+Mechanical Engineering
 
-+ Technical Writing
++ GPA: 3.81  
++ Expected Graduation Date: 5/2016
++ 
+
+Completed classes:
+
 + Statics
 + Dynamics
 + Mechanics of Materials
@@ -40,26 +46,23 @@ Completed classes in:
 + Differential Equations
 + Vector Calculus
 
-Currently Taking classes in:
+Current classes:
 
 + System Dynamcis
 + Machine Design
 + Fluid Dynamics
 + Linear Algebra
 
-### Eduction
-
-#### St. Martin's Uiniversity
-Mechanical Engineering
-
-+ GPA: 3.81  
-+ Expected Graduation Date: 5/2016
-
 #### Bellevue College
 Running Start
 
 + GPA: 3.03  
 + 9/2012-6/2013
+
+Completed Classes:
+
++ Physics
++ Technical Writing
 
 #### Home School
 
