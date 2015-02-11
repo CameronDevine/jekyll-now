@@ -6,7 +6,7 @@ permalink: /resume/
 
 ### Contact Information
 
-[Cameron.Devine@stmartin.edu](Cameron.Devine@stmartin.edu)
+<a href="mailto:Cameron.Devine@stmartin.edu">Cameron.Devine@stmartin.edu</a>
 
 425-449-6127
 
