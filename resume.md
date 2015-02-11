@@ -16,12 +16,10 @@ Bellevue, WA 98008
 ### Skills and Abilities
 
 #### Administration
-
 + In charge of registration and check in for a week long service project on Mt. Rainier.
 + Ran check in and scoring for a Boy Scout camping competition.
 
 #### Engingeering
-
 + Used computer aided design tools to model a FIRST Robotics competition robot.
 + Set up a CNC Router for pattern making.
 
@@ -29,12 +27,10 @@ Bellevue, WA 98008
 
 #### St. Martin's Uiniversity
 Mechanical Engineering
-
 + GPA: 3.81  
 + Expected Graduation Date: 5/2016
 
 Completed classes:
-
 + Statics
 + Dynamics
 + Mechanics of Materials
@@ -47,7 +43,6 @@ Completed classes:
 + Vector Calculus
 
 Current classes:
-
 + System Dynamcis
 + Machine Design
 + Fluid Dynamics
@@ -60,7 +55,6 @@ Running Start
 + 9/2012-6/2013
 
 Completed Classes:
-
 + Physics
 + Technical Writing
 
