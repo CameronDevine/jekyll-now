@@ -24,6 +24,29 @@ Bellevue, WA 98008
 
 + Used computer aided design tools to model a FIRST Robotics competition robot.
 
+#### Classes
+
+Completed classes in:
+
++ Technical Writing
++ Statics
++ Dynamics
++ Mechanics of Materials
++ Matlab
++ Mechatronics
++ Instrumentation
++ Manufacturing
++ Thermodynamics
++ Differential Equations
++ Vector Calculus
+
+Currently Taking classes in:
+
++ System Dynamcis
++ Machine Design
++ Fluid Dynamics
++ Linear Algebra
+
 ### Eduction
 
 #### St. Martin's Uiniversity
