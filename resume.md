@@ -31,7 +31,6 @@ Mechanical Engineering
 
 + GPA: 3.81  
 + Expected Graduation Date: 5/2016
-+ 
 
 Completed classes:
 
