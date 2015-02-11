@@ -23,6 +23,7 @@ Bellevue, WA 98008
 #### Engingeering
 
 + Used computer aided design tools to model a FIRST Robotics competition robot.
++ Set up a CNC Router for pattern making.
 
 ### Eduction
 
