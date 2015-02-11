@@ -46,7 +46,8 @@ Completed classes:
 + Differential Equations
 + Vector Calculus
 
-Current classes:  
+Current classes:
+
 + System Dynamcis
 + Machine Design
 + Fluid Dynamics
