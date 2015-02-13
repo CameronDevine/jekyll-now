@@ -22,7 +22,7 @@ Bellevue, WA 98008
 
 #### Engingeering
 
-+ Used computer aided design tools to model a FIRST Robotics competition robot.
++ Used SolidWorks to model a FIRST Robotics competition robot.
 + Set up a CNC Router for sand casting pattern making.
 
 ### Eduction
