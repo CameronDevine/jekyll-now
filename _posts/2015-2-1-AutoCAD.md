@@ -2,6 +2,7 @@
 layout: post
 title: AutoCAD Project
 image: /images/House.jpg
+blurb: In my freshman year I took a class on AutoCAD. As a final project we were assigned to design our dream house. I designed a very unique and fairly complex house.
 ---
 
 In my freshman year I took a class on AutoCAD. As a final project we were assigned to design our dream house. I designed a very unique and fairly complex house.
