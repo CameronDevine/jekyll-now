@@ -20,14 +20,14 @@ Bellevue, WA 98008
 + In charge of registration and check in for a week long service project on Mt. Rainier.
 + Ran check in and scoring for a Boy Scout camping competition.
 
-#### Engingeering
+#### Engineering
 
 + Used SolidWorks to model a FIRST Robotics competition robot.
 + Set up a CNC Router for sand casting pattern making.
 
-### Eduction
+### Education
 
-#### St. Martin's Uiniversity
+#### St. Martin's University
 Mechanical Engineering
 
 + GPA: 3.81  
@@ -48,7 +48,7 @@ Completed classes:
 
 Current classes:
 
-+ System Dynamcis
++ System Dynamics
 + Machine Design
 + Fluid Dynamics
 + Linear Algebra
@@ -79,7 +79,7 @@ Peer tutor for engineering classes.
 7/2014-8/2014 and 12/2014-1/2015  
 Engineering Intern  
 SOAR Technologies, Redmond, WA  
-Engineering support for hydroturbine development and in charge of CNC Router setup.
+Engineering support for hydro-turbine development and in charge of CNC Router setup.
 
 7/2012  
 Technique Tuesday, Portland, OR  
@@ -90,12 +90,12 @@ Hand Collated index cards.
 8/2014-Present  
 President  
 Engineers Without Boarders, St. Martin’s University, Lacey, WA  
-In charge of comunication and project management.  
+In charge of communication and project management.  
 
 7/2013-8/2014  
 ArrowCorps 2014 Admin Chair  
 T’kope Kwiskwis Lodge, Order of the Arrow, Seattle, WA  
-In charge of registration and check in for the week long servie projeck on Mt. Rainier.
+In charge of registration and check in for the week long service project on Mt. Rainier.
 
 1/2014-5/2014  
 Vice President  
