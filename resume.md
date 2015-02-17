@@ -15,15 +15,15 @@ Bellevue, WA 98008
 
 ### Skills and Abilities
 
-#### Administration
-
-+ In charge of registration and check in for a week long service project on Mt. Rainier.
-+ Ran check in and scoring for a Boy Scout camping competition.
-
 #### Engineering
 
 + Used SolidWorks to model a FIRST Robotics competition robot.
 + Set up a CNC Router for sand casting pattern making.
+
+#### Administration
+
++ In charge of registration and check in for a week long service project on Mt. Rainier.
++ Ran check in and scoring for a Boy Scout camping competition.
 
 ### Education
 
@@ -71,44 +71,45 @@ Completed Classes:
 
 ### Employment Experience
 
+#### Peer Tutor
 1/2015-Present  
-Peer Tutor  
 Learning and Writing Center, St. Martin's University, Lacey, WA  
 Peer tutor for engineering classes.  
 
+#### Engineering Intern  
 7/2014-8/2014 and 12/2014-1/2015  
-Engineering Intern  
 SOAR Technologies, Redmond, WA  
 Engineering support for hydro-turbine development and in charge of CNC Router setup.
 
+#### Laborer
 7/2012  
 Technique Tuesday, Portland, OR  
 Hand Collated index cards.  
 
 ### Leadership Experience
 
-8/2014-Present  
-President  
+#### President  
+8/2014-Present    
 Engineers Without Boarders, St. Martin’s University, Lacey, WA  
 In charge of communication and project management.  
 
+#### ArrowCorps 2014 Admin Chair  
 7/2013-8/2014  
-ArrowCorps 2014 Admin Chair  
 T’kope Kwiskwis Lodge, Order of the Arrow, Seattle, WA  
 In charge of registration and check in for the week long service project on Mt. Rainier.
 
+#### Vice President
 1/2014-5/2014  
-Vice President  
 Engineers Without Boarders, St. Martin’s University, Lacey, WA  
 In charge of storage and translation of engineering drawings.
 
+#### CAD Officer  
 7/2012-6/2013  
-CAD Officer  
 Saints Robotics, Interlake High School, Bellevue, WA  
 In charge of development and storage of robot CAD Models.  
 
+#### Trading Post Manager  
 9/2012-6/2013  
-Trading Post Manager  
 T’kope Kwiskwis Lodge, Order of the Arrow, Seattle, WA  
 In charge of organizing and selling items at Boy Scout events.  
 
