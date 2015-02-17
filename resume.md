@@ -93,9 +93,9 @@ Hand Collated index cards.
 Engineers Without Boarders, St. Martin’s University, Lacey, WA  
 In charge of communication and project management.  
 
-#### ArrowCorps 2014 Admin Chair  
+#### Admin Chair  
 7/2013-8/2014  
-T’kope Kwiskwis Lodge, Order of the Arrow, Seattle, WA  
+ArrowCorps 2014, T’kope Kwiskwis Lodge, Order of the Arrow, Seattle, WA  
 In charge of registration and check in for the week long service project on Mt. Rainier.
 
 #### Vice President
