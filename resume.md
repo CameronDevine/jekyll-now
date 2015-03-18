@@ -8,22 +8,20 @@ permalink: /resume/
 
 <a href="mailto:Cameron.Devine@stmartin.edu">Cameron.Devine@stmartin.edu</a>
 
+[CameronDevine.me](camerondevine.me)
+
 425-449-6127
 
-17165 NE 5th St.  
 Bellevue, WA 98008
 
-### Skills and Abilities
-
-#### Engineering
+### Skills and Qualifications
 
 + Used SolidWorks to model a FIRST Robotics competition robot.
 + Set up a CNC Router for sand casting pattern making.
-
-#### Administration
-
-+ In charge of registration and check in for a week long service project on Mt. Rainier.
-+ Ran check in and scoring for a Boy Scout camping competition.
++ Classes in Mechatronics, Machine Design, and Manufacturing.
++ Profficient with Solidworks, Inventor, AutoCAD, Matlab, and Mathematica.
++ Eagle Scout
++ Dean's List Fall 2013, Spring 2014, Fall 2014.
 
 ### Education
 
