@@ -14,6 +14,10 @@ permalink: /resume/
 
 Bellevue, WA 98008
 
+### Personal Summary
+
+A Junior Mechanical Engineering student with hands on experience in SolidWorks, CNC Equipment, and 3D Printers.
+
 ### Skills and Qualifications
 
 + Used SolidWorks to model a FIRST Robotics competition robot.
