@@ -26,6 +26,7 @@ A Junior Mechanical Engineering student with hands on experience in SolidWorks, 
 + Profficient with Solidworks, Inventor, AutoCAD, Matlab, and Mathematica.
 + Eagle Scout
 + Dean's List Fall 2013, Spring 2014, Fall 2014.
++ Engineering Peer Tutor
 
 ### Education
 
