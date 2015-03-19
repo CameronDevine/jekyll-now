@@ -6,7 +6,7 @@ permalink: /resume/
 
 ### Contact Information
 
-<a href="mailto:Cameron.Devine@stmartin.edu">Cameron.Devine@stmartin.edu</a>
+<a href="mailto:Cameron@CameronDevine.me">Cameron@CameronDevine.me</a>
 
 [CameronDevine.me](camerondevine.me)
 
