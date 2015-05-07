@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mathematica
+category: portfolio
 image: /images/mathematica.png
 blurb: I downloaded a free trial of Mathematica to use on a take home test in my Mechatronics class. After using it for the test I wanted to learn more about it, so I decided to write a simple paper on how to solve differential equations using Mathematica.
 ---
