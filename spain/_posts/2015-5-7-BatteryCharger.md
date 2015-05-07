@@ -1,5 +1,6 @@
 ---
 layout: post
+category: spain
 title: Battery Charger
 ---
 
