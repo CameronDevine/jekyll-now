@@ -8,10 +8,10 @@ permalink: /projects/
   {% for post in site.catagories.eportfolio %}
     <article class="post">    
       
-      <h3><a href="{{ site.baseurl }}{{ eportfolio.url }}">{{ eportfolio.title }}</a></h3>
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
       
       <div class="projectimg">
-        <a href="{{ site.baseurl }}{{ eportfolio.url }}"><img src="{{ site.baseurl }}{{ eportfolio.image }}" alt="{{ eportfolio.title }}"></a>
+        <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}"></a>
       </div>
       <div class="imgbar"></div>
 
@@ -19,7 +19,7 @@ permalink: /projects/
         {{ post.blurb }}
       </div>
       
-      <a href="{{ site.baseurl }}{{ eportfolio.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
