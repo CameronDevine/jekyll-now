@@ -52,7 +52,7 @@ Bellevue, WA 98008
 
 ![Demetrius, Lysander](/images/DemetriusLysander.jpg)
 
-![Hermia](/images/hermia.jpg)
+<img src="/images/hermia.jpg" alt="Hermia" width="50%">
 
 ### Arsenic and Old lace
 
@@ -60,8 +60,8 @@ Bellevue, WA 98008
 
 #### Sketches
 
-![Front view sketch](/images/ArsenicFront.jpg)
+![Front view sketch](/images/ArsenicSketchFront.jpg)
 
-![Plan view sketch](/images/ArsenicTop1.jpg)
+![Plan view sketch](/images/ArsenicSketchTop1.jpg)
 
 #### Renderings
