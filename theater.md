@@ -20,6 +20,8 @@ Bellevue, WA 98008
 
 #### Project 2
 
+![Black Box Project 2](/images/BlackBox2.jpg)
+
 ### Hedda Gabbler
 
 #### Design Statement
@@ -28,13 +30,15 @@ Bellevue, WA 98008
 
 #### Sketches
 
-#### Renderings
+![Hedda Gabbler](/images/hedda.jpg)
+
+![judge Brack](/images/brack.jpg)
 
 #### Set Design
 
-#### Sketches
-
 #### Renderings
+
+![Hedda Gabbler Set](/images/HeddaSet.jpg)
 
 ### A Midsummer Nights Dream
 
@@ -42,7 +46,21 @@ Bellevue, WA 98008
 
 #### Sketches
 
+![Cobweb Sketch](/images/CobwebSketh.jpg)
+
+![Peter Quince Sketch](/images/PeterQuinceSketch.jpg)
+
 #### Renderings
+
+![Puck](/images/puck.jpg)
+
+![Cobweb](/images/cobweb.jpg)
+
+![Demetrius](/images/demetrius.jpg)
+
+![Lysander](/images/lysander.jpg)
+
+![Hermia](/images/hermia.jpg)
 
 ### Arsenic and Old lace
 
