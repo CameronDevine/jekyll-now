@@ -16,36 +16,38 @@ Bellevue, WA 98008
 
 #### Project 1
 
-## Project 2
+![Black Box Project 1](/images/BlackBox1.jpg)
+
+#### Project 2
 
 ### Hedda Gabbler
 
-## Design Statement
+#### Design Statement
 
-## Costume Design
+#### Costume Design
 
-## Sketches
+#### Sketches
 
-## Renderings
+#### Renderings
 
-## Set Design
+#### Set Design
 
-## Sketches
+#### Sketches
 
-## Renderings
+#### Renderings
 
 ### A Midsummer Nights Dream
 
-## Design Statement
+#### Design Statement
 
-## Sketches
+#### Sketches
 
-## Renderings
+#### Renderings
 
 ### Arsenic and Old lace
 
-## Design Statment
+#### Design Statment
 
-## Sketches
+#### Sketches
 
-## Renderings
+#### Renderings
