@@ -16,7 +16,7 @@ Bellevue, WA 98008
 
 #### Project 1
 
-Using objects from my toolbox I made this arrangement. In this way the objects were completely unknown to others, and therefore the arangement, and not the expected use of the objects is what is seen.
+Using objects from my toolbox I made this arrangement. In this way the objects were completely unknown to others, and therefore the arrangement, and not the expected use of the objects is what is seen.
 
 ![Black Box Project 1](/images/BlackBox1.jpg)
 
@@ -32,7 +32,7 @@ This is an unrealized design for Henrik Ibsen's play Hedda Gabler.
 
 #### Theme
 
-Loss of control over ones life leads to dangerous behaviors which end in the suicide of two characters.
+Loss of control over one's life leads to dangerous behaviors which end in the suicide of two characters.
 
 #### Costume Design
 
@@ -51,11 +51,11 @@ Hedda Gabler set design
 
 ### A Midsummer Night's Dream
 
-An unrealized design for Shakespear's A Midsummer Night's Dream with set design by Hope Chamberlain.
+An unrealized design for Shakespeare's A Midsummer Night's Dream with set design by Hope Chamberlain.
 
 #### Theme
 
-A group of individuals travel to another world and are deprogrammed of its cultural views on merriage.
+A group of individuals travel to another world and are deprogrammed of its cultural views on marriage.
 
 #### Sketches
 
@@ -83,7 +83,7 @@ An unrealized design for Joseph Kesselring's Arsenic and Old Lace with costume d
 
 #### Theme
 
-An individual stuggles with his new knowledge about the dark secrets of his family which warps and expands his views.
+An individual struggles with his new knowledge about the dark secrets of his family which warps and expands his views.
 
 #### Sketches
 
