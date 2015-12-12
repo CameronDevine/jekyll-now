@@ -65,3 +65,5 @@ Bellevue, WA 98008
 ![Plan view sketch](/images/ArsenicSketchTop1.jpg)
 
 #### Renderings
+
+![Rendering](/images/arsenic.png)
