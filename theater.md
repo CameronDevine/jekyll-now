@@ -46,7 +46,7 @@ Bellevue, WA 98008
 
 #### Sketches
 
-![Cobweb Sketch](/images/CobwebSketh.jpg)
+![Cobweb Sketch](/images/CobwebSketch.jpg)
 
 ![Peter Quince Sketch](/images/PeterQuinceSketch.jpg)
 
