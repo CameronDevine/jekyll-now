@@ -30,9 +30,7 @@ Bellevue, WA 98008
 
 #### Sketches
 
-![Hedda Gabbler](/images/hedda.jpg)
-
-![judge Brack](/images/brack.jpg)
+![Hedda Gabbler, Judge Brack](/images/HeddaBrack.jpg)
 
 #### Set Design
 
@@ -46,19 +44,13 @@ Bellevue, WA 98008
 
 #### Sketches
 
-![Cobweb Sketch](/images/CobwebSketch.jpg)
-
-![Peter Quince Sketch](/images/PeterQuinceSketch.jpg)
+![Cobweb, Peter Quince Sketch](/images/CobwebPeterQuinceSketch.jpg)
 
 #### Renderings
 
-![Puck](/images/puck.jpg)
+![Cobweb, Puck](/images/CobwebPuck.jpg)
 
-![Cobweb](/images/cobweb.jpg)
-
-![Demetrius](/images/demetrius.jpg)
-
-![Lysander](/images/lysander.jpg)
+![Demetrius, Lysander](/images/DemetriusLysander.jpg)
 
 ![Hermia](/images/hermia.jpg)
 
@@ -67,5 +59,9 @@ Bellevue, WA 98008
 #### Design Statment
 
 #### Sketches
+
+![Front view sketch](/images/ArsenicFront.jpg)
+
+![Plan view sketch](/images/ArsenicTop1.jpg)
 
 #### Renderings
